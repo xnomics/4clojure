@@ -52,6 +52,7 @@ vaguely like this:
 * [Martin Sander](https://github.com/marvinthepa) (0x89)
 * [Alex McNamara](https://github.com/amcnamara) (amcnamara)
 * [Ara Jeknavorian](https://github.com/arajek) (arajek)
+* [xnomics] (https://github.com/xnomics) (xnomics)
 
 
 Problem sources:
